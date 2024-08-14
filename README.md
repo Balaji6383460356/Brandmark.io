@@ -1,4 +1,4 @@
-# Brandmark.io
+# Brandmark.io .
 I can help you create a basic recreation of the website structure using HTML, CSS, and JavaScript. Below is a simplified version of the website:
 
 ### HTML (index.html)
